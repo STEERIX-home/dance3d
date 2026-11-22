@@ -1,0 +1,4 @@
+# Beyond ComfyUI's own requirements.txt: gguf for the ComfyUI-GGUF loader of the SCAIL-2 GGUF files,
+# gradio for the local pages (the same environment runs them).
+gguf==0.19.0
+gradio==5.49.1

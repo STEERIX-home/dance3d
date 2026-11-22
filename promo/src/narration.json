@@ -1,0 +1,184 @@
+{
+ "lines": [
+  {
+   "id": "L01a",
+   "text": "One dance video.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L01b",
+   "text": "Any character.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L01c",
+   "text": "Any camera.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L01d",
+   "text": "Even a real robot.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L02",
+   "text": "It starts with one ordinary video of a person dancing.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L03",
+   "text": "From that video alone, the program rebuilds the dancer in 3D: seventy-six joints, measured in metres, with both feet on the floor.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L04",
+   "text": "Every joint becomes a curve over time. This is the dance, as data.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L05",
+   "text": "It ran on fifteen dances in a row. Forty-nine minutes, with nobody touching it.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L06",
+   "text": "Laid back over the video, the joints are typically off by about one and a half percent of the dancer's height.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L07",
+   "text": "Because the motion is 3D, a camera can stand anywhere.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L07c",
+   "text": "Front.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L07d",
+   "text": "Left.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L07e",
+   "text": "Right.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L07f",
+   "text": "Back.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L08",
+   "text": "A character picture goes in, and a video model paints that character over the 3D guide, shot by shot.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L09",
+   "text": "The program listens to the music, finds the beat, and cuts between cameras right on it.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L10",
+   "text": "Then it checks its own work: feet inside the frame, colours steady, every cut on a beat.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L11",
+   "text": "Two dancers work the same way. Each one becomes a colour-coded figure in one shared 3D room.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L12",
+   "text": "Both characters and the room are painted in a single pass, so they stay in step, in place, and in the same light.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L13",
+   "text": "The camera can copy the original shot, or fly all the way around.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L14",
+   "text": "And the same joints can leave the screen.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L15",
+   "text": "Pick a dance, and a real robot performs it. Head, body and antennas, driven by the dancer's joints.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L16",
+   "text": "Measured from this footage, the robot's head tilt follows the dancer's, with a correlation of zero point eight five.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "L17",
+   "text": "One video in. Characters, cameras, and robots out.",
+   "voice": "af_heart",
+   "speed": 1.0
+  },
+  {
+   "id": "S01",
+   "text": "This robot is copying a dance from a single video.",
+   "voice": "af_heart",
+   "speed": 1.04
+  },
+  {
+   "id": "S02",
+   "text": "First, the video becomes 3D joints.",
+   "voice": "af_heart",
+   "speed": 1.04
+  },
+  {
+   "id": "S03",
+   "text": "So any camera can film it. Front, side, back. Cut right on the beat.",
+   "voice": "af_heart",
+   "speed": 1.04
+  },
+  {
+   "id": "S04",
+   "text": "Two dancers become two characters, in one 3D room.",
+   "voice": "af_heart",
+   "speed": 1.04
+  },
+  {
+   "id": "S05",
+   "text": "And the same joints drive a real robot.",
+   "voice": "af_heart",
+   "speed": 1.04
+  },
+  {
+   "id": "S06",
+   "text": "One video in. Characters and robots out.",
+   "voice": "af_heart",
+   "speed": 1.04
+  }
+ ]
+}

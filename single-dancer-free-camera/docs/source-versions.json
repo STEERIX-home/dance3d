@@ -1,0 +1,18 @@
+{
+  "ExMR": {
+    "revision": "eac72e47339b404c0443f5fb323412e2ce432410",
+    "source": "https://github.com/twehrbein/ExMR.git"
+  },
+  "ComfyUI": {
+    "revision": "f4f3dedddea4e7ac8e79589a1362649fc2bf3377",
+    "source": "https://github.com/Comfy-Org/ComfyUI.git"
+  },
+  "KJNodes": {
+    "revision": "ab72eda7ffad6280422d71ab7d54d3fb87c0ba18",
+    "source": "https://github.com/kijai/ComfyUI-KJNodes.git"
+  },
+  "character_swap_workflow": {
+    "revision": "26c332d862a939640758fc5af48d400444fab24f",
+    "source": "https://github.com/TheBeast-Spec/minimax-h3-character-swap-lora-comfyui.git"
+  }
+}

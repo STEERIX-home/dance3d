@@ -1,0 +1,48 @@
+{
+  "cpu_regressions": {
+    "passed": 7,
+    "skipped": 1,
+    "skip_reason": "Private MPO photo fixture is not included"
+  },
+  "player": [
+    {
+      "viewport": "desktop",
+      "autoplay_without_click": true,
+      "initial_state": {
+        "time": 1.036566,
+        "muted": true,
+        "paused": false,
+        "duration": 168.625,
+        "width": 1920,
+        "height": 1080
+      },
+      "advance_seconds": 1.212545,
+      "chapter_seek": true,
+      "sound_toggle": true,
+      "horizontal_overflow": false,
+      "external_requests": 0,
+      "page_errors": []
+    },
+    {
+      "viewport": "mobile",
+      "autoplay_without_click": true,
+      "initial_state": {
+        "time": 1.050853,
+        "muted": true,
+        "paused": false,
+        "duration": 168.625,
+        "width": 1920,
+        "height": 1080
+      },
+      "advance_seconds": 1.2176779999999998,
+      "chapter_seek": true,
+      "sound_toggle": true,
+      "horizontal_overflow": false,
+      "external_requests": 0,
+      "page_errors": []
+    }
+  ],
+  "all_python_syntax": "passed",
+  "private_source_and_credentials_scan": "passed",
+  "movie_sha256": "3ebd14a4ff14e0d318c4c01eda79a980eac5d1c3c1118f1f42204b6875b43ef2"
+}

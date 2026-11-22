@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="color-scheme" content="dark">
+  <title>Free Camera MoCap — Private screening</title>
+  <link rel="stylesheet" href="assets/viewer.css">
+  <script src="assets/viewer.js" defer></script>
+</head>
+<body>
+  <main>
+    <header><a class="brand" href="index.html">STEERIX <span>/ MOTION LAB</span></a><span class="badge">PRIVATE SCREENING</span></header>
+    <section class="intro" aria-labelledby="title">
+      <p class="eyebrow">ONE PERFORMANCE · ONE CHARACTER · FREE CAMERA</p>
+      <h1 id="title">Choose the view.</h1>
+      <p class="lead">Reconstruct the dance once. Move around it in 3D.<br>Turn each camera path into a character performance.</p>
+    </section>
+    <section class="screen" aria-label="Full demonstration">
+      <video id="demo" autoplay muted playsinline controls loop preload="auto" poster="assets/poster.jpg" aria-label="Reze character generated with a dynamic 3D camera">
+        <source src="assets/reze-dynamic-camera.mp4" type="video/mp4">
+        Your browser cannot play this video. <a href="assets/reze-dynamic-camera.mp4">Download the MP4.</a>
+      </video>
+      <div class="screen-bar"><span id="playback-status" role="status">No sound</span><button id="sound" type="button" hidden aria-pressed="false">Enable sound</button></div>
+      <button id="play-fallback" type="button" hidden>Play video</button>
+    </section>
+    <div class="meta"><span>768 × 1344</span><span>24 FPS</span><span>00:29</span><span>Dynamic camera · Reze</span><a href="assets/reze-dynamic-camera.mp4" download>Download full video ↗</a></div>
+    <section class="process" aria-labelledby="process-title">
+      <div><p class="eyebrow">THE PROCESS</p><h2 id="process-title">Motion becomes a scene.<br>The scene becomes a guide.</h2></div>
+      <ol><li><span>01</span><div><h3>Recover the performance</h3><p>ExMR reconstructs body and hand motion from a dance clip.</p></div></li><li><span>02</span><div><h3>Design the camera</h3><p>Blender renders a full orbit, close approaches, pullbacks, height changes and camera roll.</p></div></li><li><span>03</span><div><h3>Generate the appearance</h3><p>MiniMax H3 uses the rendered guide and a character reference. The Reze result follows the same dynamic guide.</p></div></li></ol>
+    </section>
+    <aside><strong>What is editable?</strong> Camera placement and motion belong to the 3D scene. The final character appearance is a generated 2D video; their poses, timing and unseen details can differ from the guide.</aside>
+    <footer><span>Motion reference: 아일릿 체포하겠어 댄스 챌린지 영상</span><span>Original source footage is omitted.</span></footer>
+  </main>
+</body>
+</html>

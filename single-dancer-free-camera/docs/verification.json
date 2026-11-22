@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "video": "assets/reze-dynamic-camera.mp4",
+  "sha256": "7a43f05c76b1d5b5c668e4c54108bcf545c0bdfbbbb4529bf7268a8eb8836937",
+  "frames": 699,
+  "duration": 29.125,
+  "resolution": [
+    768,
+    1344
+  ],
+  "fps": 24,
+  "audio": true,
+  "source_job": "20261111-161358-rgbmocap-entire-swap-4770",
+  "segment_count": 6,
+  "face_correction": false,
+  "source_footage_displayed": false,
+  "real_person_images_included": false,
+  "source_reference_label": "아일릿 체포하겠어 댄스 챌린지 영상",
+  "known_limitations": [
+    "Generated poses and timing may differ from the 3D guide.",
+    "The generated appearance is a 2D video, not a textured 3D character."
+  ]
+}

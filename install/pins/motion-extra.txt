@@ -1,0 +1,10 @@
+# Installed with --no-deps on top of ExMR's requirements.txt + constraints.txt, exactly as on the server:
+# hamer and sapiens2 as ExMR's docs/INSTALL.md says; clip/ftfy/regex (SAM 3 text prompts in ultralytics) and
+# moge/utils3d_moge (MoGe-2 geometry) as in the server's extra-packages folder. Their other needs are in ExMR's set.
+hamer @ git+https://github.com/geopavlakos/hamer.git@3a01849f4148352e9260b69bf28b65d1671a4905
+sapiens @ git+https://github.com/facebookresearch/sapiens2.git@7e5bae88456ac418ff0e58e74106c9fe192055d4
+clip @ git+https://github.com/ultralytics/CLIP.git@7ffa84b3bfa40c42ecc1c77147a855e69cb2dd40
+ftfy==6.3.1
+regex==2026.11.9
+moge @ git+https://github.com/microsoft/MoGe.git@74fbce054ebed49800de42d0ad0e83495065719a
+utils3d_moge @ git+https://github.com/EasternJournalist/utils3d-moge.git@62f09d58509485564e24d5d9f6aac9ee9ebc0c37

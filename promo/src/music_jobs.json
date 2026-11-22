@@ -1,0 +1,53 @@
+[
+ {
+  "name": "main150",
+  "prompt": "energetic dance pop instrumental, four-on-the-floor kick drum on every beat, tight claps on two and four, bright plucked synth hook, deep sub bass, shimmering arpeggio, modern, polished, upbeat, confident, 150 BPM, A minor, instrumental",
+  "lyrics": "[inst]",
+  "duration": 104,
+  "seeds": [
+   3,
+   11,
+   27,
+   42,
+   103,
+   111
+  ],
+  "infer_step": 60,
+  "guidance_scale": 15,
+  "omega_scale": 10
+ },
+ {
+  "name": "duo129",
+  "prompt": "groovy dance pop instrumental, four-on-the-floor kick drum on every beat, claps on two and four, funky bass line, bright synth stabs, playful, stylish, modern, 129 BPM, E minor, instrumental",
+  "lyrics": "[inst]",
+  "duration": 56,
+  "seeds": [
+   5,
+   19,
+   33,
+   47,
+   105,
+   119
+  ],
+  "infer_step": 60,
+  "guidance_scale": 15,
+  "omega_scale": 10
+ },
+ {
+  "name": "robot120",
+  "prompt": "cute upbeat electro pop instrumental, four-on-the-floor kick drum on every beat, claps on two and four, bouncy synth bass, playful plucked melody, cheerful, light, modern, 120 BPM, C major, instrumental",
+  "lyrics": "[inst]",
+  "duration": 72,
+  "seeds": [
+   7,
+   13,
+   29,
+   51,
+   107,
+   113
+  ],
+  "infer_step": 60,
+  "guidance_scale": 15,
+  "omega_scale": 10
+ }
+]

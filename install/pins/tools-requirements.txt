@@ -1,0 +1,2 @@
+# yt-dlp, only for YouTube links in programs/dance-joints.
+yt-dlp[default]==2026.10.26
